@@ -1,3 +1,5 @@
+## ON REVISION
+
 # Youngdae Heo
 > I'm finding a position as data engineer based in Seoul, South Korea with 1 year of experience in the research exprience.
 
@@ -19,6 +21,4 @@
 # Languages
 * **Korean**:native language
 * **English**: Readable & writable fluently, trying to be conversational
-  * *ETS TOEIC certificated* (score 895/total 990)
-
-# ON REVISION
+  * *ETS TOEIC certificated* (895/990)
