@@ -16,3 +16,4 @@
 # Languages
 * **Korean**:native language
 * **English**: Readable & writable fluently, trying to be conversational (*ETS TOEIC certificated*)
+  * test
