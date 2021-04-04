@@ -14,7 +14,7 @@
  * Text mining KoNLPy
  * Web service development with **Django**
 * **SQL**
-* **R*
+* **R**
 
 # Languages
 * **Korean**:native language
