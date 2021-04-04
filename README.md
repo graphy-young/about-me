@@ -9,12 +9,12 @@
 * 
 
 # Skills
-* **Python**
+### **Python**
  * Web scrapping & crawling using **BeautifulSoap4**, **Selenium**
  * Text mining KoNLPy
  * Web service development with **Django**
-* **SQL**
-* **R**
+### **SQL**
+##* **R**
 
 # Languages
 * **Korean**:native language
