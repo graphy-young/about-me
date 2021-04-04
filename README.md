@@ -11,12 +11,14 @@
 # Skills
 ### **Python**
  * Web scrapping & crawling using **BeautifulSoap4**, **Selenium**
- * Text mining KoNLPy
+ * Text mining  KoNLPy
  * Web service development with **Django**
 ### **SQL**
-##* **R**
+### **R**
 
 # Languages
 * **Korean**:native language
 * **English**: Readable & writable fluently, trying to be conversational
   * *ETS TOEIC certificated* (score 895/total 990)
+
+# ON REVISION
