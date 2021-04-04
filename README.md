@@ -8,4 +8,11 @@
 # 💻 Work experience
 * 
 
-** ON REVISION **
+# Skills
+* **Python**
+* **SQL**
+* **R*
+
+# Languages
+* **Korean**:native language
+* **English**: Readable & writable fluently, trying to be conversational (*ETS TOEIC certificated*)
